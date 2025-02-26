@@ -1,7 +1,7 @@
 # Booking Scraper
 An initial project to scrape some hotel information in Spain from Booking.com
 
-The project is divided into two codes:
+The pipeline is divided into two steps, which must be executed in the following order:
 1. [booking_queue.py](https://github.com/daniribeirof/booking_scrap/blob/main/booking_queue.py)\
 It saves the hotel links, which are on the website's home page\
 Results saved in: [url_queue.json](https://github.com/daniribeirof/booking_scrap/blob/main/url_queue.json)
